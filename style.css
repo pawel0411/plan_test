@@ -1,0 +1,169 @@
+.name{
+text-align: center;
+}
+.full{
+  border: 1px solid black;
+  width: 1400px;
+  height: 1200px;
+  position: relative;
+  
+}
+.all {
+   /* Толщина линии */
+   border: 10px solid black;
+   margin: 100px 100px;
+  width: 1200px;
+  height: 1000px;
+ }
+ .one{
+  width: 100px; 
+  border: none; /* Убираем границу */
+  background-color: black; /* Цвет линии */
+  color: black; /* Цвет линии для IE6-7 */ 
+  height: 10px;
+  margin: 250px 300px 150px;
+ }
+.two{
+  width: 400px; 
+  border: none; /* Убираем границу */
+  background-color: black; /* Цвет линии */
+  color: black; /* Цвет линии для IE6-7 */ 
+  height: 10px;
+  margin: 0px 500px 200px;
+
+}
+.three{
+  width: 310px; 
+  border: none; /* Убираем границу */
+  background-color: black; /* Цвет линии */
+  color: black; /* Цвет линии для IE6-7 */ 
+  height: 10px;
+  margin: 0px -10px 370px;
+}
+.four{
+  width: 100px; 
+  border: none; /* Убираем границу */
+  background-color: white; /* Цвет линии */
+  color: white; /* Цвет линии для IE6-7 */ 
+  height: 10px;
+  margin: 0px 350px ;
+}
+.all_{
+  /* Толщина линии */
+  border: 10px solid transparent;
+  margin: -1120px 100px;
+ width: 1200px;
+ height: 1000px;
+}
+
+.one_{
+  transform: rotate(90deg);
+  width: 300px; 
+  border: none; 
+  background-color: black;   
+  color: black;   
+   height: 10px;
+  margin: 135px 0px 0px 150px;
+} 
+.two_{
+  transform: rotate(90deg);
+  width: 250px; 
+  border: none; 
+  background-color: black;   
+  color: black;   
+   height: 10px;
+  margin: 385px 0px 0px 175px;
+}
+.three_{
+  transform: rotate(90deg);
+  width: 250px; 
+  border: none; 
+  background-color: black;   
+  color: black;   
+   height: 10px;
+  margin: 339px 0px 0px 175px;
+}
+.four_{
+  transform: rotate(90deg);
+  width: 200px; 
+  border: none; 
+  background-color: black;   
+  color: black;   
+   height: 10px;
+  margin: -544px 0px 0px 405px;
+}
+.five_{
+  transform: rotate(90deg);
+  width: 450px; 
+  border: none; 
+  background-color: black;   
+  color: black;   
+   height: 10px;
+  margin: 424px 0px 0px 280px;
+}
+.six_{
+  transform: rotate(90deg);
+  width: 420px; 
+  border: none; 
+  background-color: black;   
+  color: black;   
+   height: 10px;
+  margin: -594px 570px;
+}
+._one_{
+   /* border: 5px solid grey;  */
+   width: 300px;
+  height: 625px; 
+  
+   margin: 100px 100px;
+   text-align:  center;
+    line-height: 40em; 
+ }
+ ._two_{
+    /* border: 5px solid green;   */
+  width: 480px;
+  height: 250px;
+  /* position: relative; */
+   margin: -724px 405px;
+
+   text-align:  center;
+   line-height: 15em;
+ }
+ ._three_{
+   /* border: 5px solid yellow;   */
+ width: 370px;
+ height: 370px;
+ position: relative;
+  margin: 457px 894px;
+  text-align:  center;
+  line-height: 22em;
+}
+._four_{
+  /* border: 5px solid rgb(255, 0, 0);   */
+width: 200px;
+height: 700px;
+position: relative;
+ margin: -550px 408px;
+ text-align:  center;
+ line-height: 19em;
+}
+._five_{
+  /* border: 5px solid rgb(77, 67, 67);   */
+width: 300px;
+height: 350px;
+position: relative;
+ margin: 200px 105px;
+ text-align:  center;
+ line-height: 23em;
+}
+
+._seven_{
+  /* border: 5px solid rgb(156, 18, 110);   */
+width: 650px;
+height: 550px;
+position: relative;
+ margin: -770px 630px;
+ text-align:  center;
+ line-height: 30em;
+}
+ 
